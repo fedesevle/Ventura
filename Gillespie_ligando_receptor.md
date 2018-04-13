@@ -1,4 +1,5 @@
 % Modelo Ligando-Receptor monovalente estocástico que usa el algoritmo de Gillespie
+% Lenguaje: MATLAB
 clear all;close all
 n=1000;
 k=1;l=1;R0=100;RL=0;L=1000;t=0;V=100;
